@@ -20,7 +20,6 @@ namespace ShanuNestedDataGridView.Helper
 {
     class ShanuDGVHelper
     {
-        // test by usman 
         #region Variables
         public DataGridView MasterDGVs = new DataGridView();
         public DataGridView DetailDGVs = new DataGridView();

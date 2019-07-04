@@ -80,3 +80,5 @@ C:\Users\Usman\Source\Repos\iosTest\IOS_APP\bin\Microsoft.Owin.Security.Microsof
 C:\Users\Usman\Source\Repos\iosTest\IOS_APP\obj\Debug\IOS_APP.csprojResolveAssemblyReference.cache
 C:\Users\Usman\Source\Repos\iosTest\IOS_APP\obj\Debug\IOS_APP.dll
 C:\Users\Usman\Source\Repos\iosTest\IOS_APP\obj\Debug\IOS_APP.pdb
+C:\Users\Usman\Source\Repos\iosTest\IOS_APP\bin\Octokit.dll
+C:\Users\Usman\Source\Repos\iosTest\IOS_APP\bin\Octokit.xml
